@@ -15,6 +15,8 @@ The objective of this project is to check and remove unwanted input ensuring tha
 
 Here are all the input requirements:
 
+1. **student:** 9 digits. acceptable formats: 000000000, 000 000 000
+
 <h2 id="#Example-Outputs">Example Outputs</h2>
 
 Here is what the example output would look like:
