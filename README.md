@@ -13,7 +13,7 @@ The objective of this project is to check and remove unwanted input ensuring tha
 
 <h2 id="#Inputs-Requirements">Inputs Requirements</h2>
 
-Here are all the input requirements:
+Here are all the valid input requirements:
 
 1. **student:** 9 digits. acceptable formats: 000000000, 000 000 000
 
