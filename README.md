@@ -22,11 +22,3 @@ Here are all the valid input requirements:
 Here is what the example output would look like:
 
 ## References
-
-[1] https://www.writebots.com/discord-bot-token/
-
-[2] https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
-
-[3] https://www.youtube.com/watch?v=ic4lUiDTbVI
-
-[4] https://gaswizard.ca/gas-price-predictions/
