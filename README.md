@@ -17,7 +17,7 @@ The objective of this project is to check and remove unwanted input ensuring tha
 
 Here are some steps to get started:
 
-1. Download or copy the (Code.py)[https://github.com/JacYuan1/Input-Validation-and-Data-Sanitization-Project/blob/main/Code.py] file
+1. Download or copy the [Code.py](https://github.com/JacYuan1/Input-Validation-and-Data-Sanitization-Project/blob/main/Code.py) file
 2. Create a text or csv file anywhere on your pc and name it
 3. In the file open() function (Line 4) provide the location of that text file you've created in step 1
 4. Paste in samples (you can use the sample inputs provided [here](#Example-Inputs)
