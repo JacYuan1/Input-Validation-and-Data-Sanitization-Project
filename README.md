@@ -31,12 +31,19 @@ Here are all the valid input requirements:
 Here are some example inputs:
 
 student,999999999
+
 password,abcd1234 username,user123 email,testuser@testdomain.com previous,testuse@testdomain.com 
+
 phone,123-456-7890
+
 postal,M86 72Z address,123 street blvd. binary,11110000
+
 bio,  hello world student,9999 9999
-student,   111111111 password,123456abcdef!! username,stevedave previous,stevedave 
+
+student,   111111111 password,123456abcdef!! username,stevedave previous,stevedave
+
 phone,((416-111-1234
+
 postal,H1R3T7 bio,Hello<script>World</script>
 
 <h2 id="#Example-Outputs">Example Outputs</h2>
