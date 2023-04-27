@@ -4,6 +4,7 @@
 
 - [Introduction](#Introduction)
 - [Inputs Requirements](#Inputs-Requirements)
+- [Example Inputs](#Example-Inputs)
 - [Example Outputs](#Example-Outputs)
 - [References](#References)
 
@@ -25,6 +26,18 @@ Here are all the valid input requirements:
 8. **Address:** A string field containing a-z, A-Z, 0-9, periods and dashes.
 9. **Binary:** A single binary string, must contain only 1s and 0s with no breaks between digits
 10. **Biography:** A generic string field. Report “no” only if the field contains any html tags.
+
+<h2 id="#Example-Intputs">Example Inputs</h2>
+Here are some example inputs:
+
+student,999999999
+password,abcd1234 username,user123 email,testuser@testdomain.com previous,testuse@testdomain.com 
+phone,123-456-7890
+postal,M86 72Z address,123 street blvd. binary,11110000
+bio,  hello world student,9999 9999
+student,   111111111 password,123456abcdef!! username,stevedave previous,stevedave 
+phone,((416-111-1234
+postal,H1R3T7 bio,Hello<script>World</script>
 
 <h2 id="#Example-Outputs">Example Outputs</h2>
 
