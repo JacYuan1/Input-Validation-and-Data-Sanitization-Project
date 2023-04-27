@@ -44,7 +44,9 @@ student,   111111111 password,123456abcdef!! username,stevedave previous,steveda
 
 phone,((416-111-1234
 
-postal,H1R3T7 bio,Hello<script>World</script>
+postal,H1R3T7
+
+bio,Hello<script>World</script>
 
 <h2 id="#Example-Outputs">Example Outputs</h2>
 
