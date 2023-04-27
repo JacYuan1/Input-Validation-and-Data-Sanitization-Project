@@ -50,6 +50,6 @@ bio,Hello<script>World</script>
 
 <h2 id="#Example-Outputs">Example Outputs</h2>
 
-Here is what the example output would look like:
+The output will be a simple “yes” or “no” string. Here is what the example output would look like:
 
 ## References
