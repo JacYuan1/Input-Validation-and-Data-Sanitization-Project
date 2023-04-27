@@ -109,4 +109,4 @@ no
 
 ## References
 
-[https://github.com/JacYuan1/Input-Validation-and-Data-Sanitization-Project/blob/536a1bd0f0cf73fc16dda56914658a45de1e837b/Reference.pdf](Reference Link)
+[Reference Link](https://github.com/JacYuan1/Input-Validation-and-Data-Sanitization-Project/blob/536a1bd0f0cf73fc16dda56914658a45de1e837b/Reference.pdf)
