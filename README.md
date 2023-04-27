@@ -4,6 +4,7 @@
 
 - [Introduction](#Introduction)
 - [Inputs Requirements](#Inputs-Requirements)
+- [Get Started](#Get-Started)
 - [Example Inputs](#Example-Inputs)
 - [Example Outputs](#Example-Outputs)
 - [References](#References)
@@ -11,6 +12,15 @@
 <h2 id="#Introduction">Introduction</h2>
 
 The objective of this project is to check and remove unwanted input ensuring that data conforms to security-related requirements.
+
+<h2 id="#Get-Started">Get Started</h2>
+
+Here are some steps to get started:
+
+1. Create a text or csv file anywhere on your pc and name it
+2. In the file open() function (Line 4) provide the location of that text file you've created in step 1
+3. Paste in samples (you can use the sample inputs provided [here](#Example-Inputs)
+4. Run the code!
 
 <h2 id="#Inputs-Requirements">Inputs Requirements</h2>
 
