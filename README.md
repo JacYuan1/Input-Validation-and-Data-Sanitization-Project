@@ -11,7 +11,7 @@
 
 <h2 id="#Introduction">Introduction</h2>
 
-The objective of this project is to check and remove unwanted input ensuring that data conforms to security-related requirements.
+The objective of this project is to use regular expressions to check and remove unwanted input ensuring that data conforms to security-related requirements.
 
 <h2 id="#Get-Started">Get Started</h2>
 
