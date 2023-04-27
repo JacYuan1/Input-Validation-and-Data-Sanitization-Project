@@ -73,6 +73,40 @@ The output will be a simple “yes” or “no” string.
 
 Here is what the example output would look like:
 
+yes
 
+no
+
+yes
+
+yes
+
+no
+
+yes
+
+no
+
+yes
+
+yes
+
+yes
+
+no
+
+yes
+
+yes
+
+yes
+
+yes
+
+no
+
+yes
+
+no
 
 ## References
