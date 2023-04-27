@@ -28,6 +28,7 @@ Here are all the valid input requirements:
 10. **Biography:** A generic string field. Report “no” only if the field contains any html tags.
 
 <h2 id="#Example-Intputs">Example Inputs</h2>
+
 Here are some example inputs:
 
 student,999999999
