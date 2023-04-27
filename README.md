@@ -33,15 +33,33 @@ Here are some example inputs:
 
 student,999999999
 
-password,abcd1234 username,user123 email,testuser@testdomain.com previous,testuse@testdomain.com 
+password,abcd1234
+
+username,user123
+
+email,testuser@testdomain.com
+
+previous,testuse@testdomain.com 
 
 phone,123-456-7890
 
-postal,M86 72Z address,123 street blvd. binary,11110000
+postal,M86 72Z
 
-bio,  hello world student,9999 9999
+address,123 street blvd.
 
-student,   111111111 password,123456abcdef!! username,stevedave previous,stevedave
+binary,11110000
+
+bio,  hello world
+
+student,9999 9999
+
+student,   111111111
+
+password,123456abcdef!!
+
+username,stevedave
+
+previous,stevedave
 
 phone,((416-111-1234
 
@@ -51,6 +69,10 @@ bio,Hello<script>World</script>
 
 <h2 id="#Example-Outputs">Example Outputs</h2>
 
-The output will be a simple “yes” or “no” string. Here is what the example output would look like:
+The output will be a simple “yes” or “no” string.
+
+Here is what the example output would look like:
+
+
 
 ## References
